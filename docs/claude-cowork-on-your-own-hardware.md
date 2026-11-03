@@ -10,7 +10,7 @@ There is no documented path to self-host Cowork, and no documented bring-your-ow
 
 ## What a self-hosted system looks like
 
-Kortix is the open-source AI Operating System, and self-hosting is a supported install rather than a hosted tier: the `kortix self-host` commands bring up the full stack on your own infrastructure. The same system runs three ways — Kortix Cloud, your VPC, or your own on-prem network — and self-host is free.
+Kortix is the open-source CompanyOS, and self-hosting is a supported install rather than a hosted tier: the `kortix self-host` commands bring up the full stack on your own infrastructure. The same system runs three ways — Kortix Cloud, your VPC, or your own on-prem network — and self-host is free.
 
 Three properties make that real rather than nominal:
 
