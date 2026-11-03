@@ -1,6 +1,6 @@
 # Claude Cowork data residency: what an open-source self-host changes
 
-A residency review starts with where the data sits. It rarely ends there. The reviewer also asks who controls the application code, the data store, the model keys, the agent configuration, and the audit trail. Anthropic answers the first for Claude Cowork and only part of the rest. Kortix is the open-source AI Operating System. It answers all five controls, with the control plane and the configuration on hardware you run, and sessions on the sandbox provider you connect.
+A residency review starts with where the data sits. It rarely ends there. The reviewer also asks who controls the application code, the data store, the model keys, the agent configuration, and the audit trail. Anthropic answers the first for Claude Cowork and only part of the rest. Kortix is the open-source CompanyOS. It answers all five controls, with the control plane and the configuration on hardware you run, and sessions on the sandbox provider you connect.
 
 The [what is Claude Cowork](https://claudecoworkalternative.com/what-is-claude-cowork) page covers the product; [is Claude Cowork safe](https://claudecoworkalternative.com/is-claude-cowork-safe) covers its reach.
 
