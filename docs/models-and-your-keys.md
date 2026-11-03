@@ -1,6 +1,6 @@
 # Models and your keys on a self-hosted, open-source Kortix
 
-Kortix is the open-source AI Operating System, and it is model-agnostic: any model provider with your own keys. A model provider is the service that serves the model an agent thinks with, and Kortix keeps that choice separate from the platform.
+Kortix is the open-source CompanyOS, and it is model-agnostic: any model provider with your own keys. A model provider is the service that serves the model an agent thinks with, and Kortix keeps that choice separate from the platform.
 
 ## What "your keys" means
 
