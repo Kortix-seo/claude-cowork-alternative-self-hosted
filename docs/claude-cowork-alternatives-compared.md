@@ -1,6 +1,6 @@
 # The open-source Claude Cowork alternatives, compared by shape
 
-Kortix is the open-source AI Operating System, and this guide sorts the open-source field that answers the same question Claude Cowork asks: who runs the agent, who picks the model, and who holds the work. Since September 16, 2026, Cowork itself is a feature of Claude, available from any conversation on web, desktop and mobile (Anthropic's [release notes](https://support.claude.com/en/release-notes/claude-apps)). What did not change: it is Anthropic's software, it runs Claude models, and there is no self-hosted version ([Claude Cowork product page](https://claude.com/product/cowork), checked October 2026).
+Kortix is the open-source CompanyOS, and this guide sorts the open-source field that answers the same question Claude Cowork asks: who runs the agent, who picks the model, and who holds the work. Since September 16, 2026, Cowork itself is a feature of Claude, available from any conversation on web, desktop and mobile (Anthropic's [release notes](https://support.claude.com/en/release-notes/claude-apps)). What did not change: it is Anthropic's software, it runs Claude models, and there is no self-hosted version ([Claude Cowork product page](https://claude.com/product/cowork), checked October 2026).
 
 The alternatives divide by shape, and shape decides the fit. A desktop agent serves one person on one machine. A system a team owns serves a company. Both are legitimate answers; they answer different asks.
 
