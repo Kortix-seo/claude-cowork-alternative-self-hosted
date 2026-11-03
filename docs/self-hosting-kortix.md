@@ -1,6 +1,6 @@
 # Self-host Kortix, the open-source Claude Cowork alternative
 
-Kortix is the open-source AI Operating System, and self-hosting runs the whole stack on hardware you control.
+Kortix is the open-source CompanyOS, and self-hosting runs the whole stack on hardware you control.
 
 Self-hosting Kortix means running Kortix's own Docker Compose stack on your server instead of on Kortix Cloud. The company's data sits on disk you control, and the model keys and the infrastructure stay yours ([Kortix self-hosting docs](https://kortix.com/docs/host)).
 
