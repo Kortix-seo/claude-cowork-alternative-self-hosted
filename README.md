@@ -63,7 +63,7 @@ A trigger starts a session on a cron schedule or a signed webhook, with nobody p
 
 ## Start
 
-[Try Kortix](https://claudecoworkalternative.com/) on a real task, or self-host the stack on your own hardware. The repository is public at [Kortix on GitHub](https://github.com/kortix-ai/suna), with 20,000+ GitHub stars.
+[Try Kortix](https://claudecoworkalternative.com/) on a real task, or self-host the stack on your own hardware. The repository is public at [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS), with 20,000+ GitHub stars.
 
 ## What is new on the companion site
 
